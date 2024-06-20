@@ -1,5 +1,7 @@
 # Artificial Intelligence and Data Science Student
 
+Contact : [My LinkedIn](https://www.linkedin.com/in/aymanboufarhi)
+
 #### Technical Skills: Python, SQL, C++, UML, Adobe Photoshop
 
 ## Education
