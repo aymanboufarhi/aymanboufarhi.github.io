@@ -68,18 +68,21 @@ During this project, I developed an anime recommendation system named Animate us
 ### FSTT chatbot
 [Github Repository](https://github.com/aymanboufarhi/FSTT-Chatbot)  
 My task : Fine-Tuning the model
+
 Developed a chatbot application designed to assist students and visitors of the Faculty of Sciences and Techniques in Tanger (FSTT) website. The chatbot use two approach : Retrieval-Augmented Generation (RAG) and Fine-Tuning.
 
 
 ### Real-Time Twitter Sentiment Analysis
 [Github Repository](https://github.com/aymanboufarhi/Real-Time-Twitter-Sentiment-Analysis)  
 My task : Implementing Kafka Streaming
+
 Developed a Big Data project focused on real-time sentiment analysis of Twitter data. The project leverages various technologies to collect, process, analyze, and visualize sentiment data from tweets in real-time ( Kafka, Spark, MongoDB, Django and Docker )
 
 
 ### Serious Game
 [Github Repository](https://github.com/FSTT-LIST/GLUPS-123)  
 My task : Implementing data acquisition capabilities by recording each player's activity trace in a well-structured CSV file
+
 During an internship, I worked on an open-source project that aimed to enhance the experience of playing and learning. I contributed to the game's interface and more in the backend, specifically in scripting.
 
 
