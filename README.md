@@ -33,7 +33,7 @@ Contact : [My LinkedIn](https://www.linkedin.com/in/aymanboufarhi)
 
 ## Work Experience :
 **Machine Learning Intern (_August 2024 - September 2024_)**
-As a Machine Learning Intern, I worked on enhancing an existing property management platform ( mydayf.com ) by implementing a rental price prediction feature using machine learning. I developed the backend with FastAPI to handle API requests and integrated it with a Next.js frontend, ensuring smooth data flow and user interaction. I also applied web scraping techniques to collect real estate data, preprocessed the dataset, and trained a Gradient Boosting model for accurate rental price prediction.
+- As a Machine Learning Intern, I worked on enhancing an existing property management platform ( mydayf.com ) by implementing a rental price prediction feature using machine learning. I developed the backend with FastAPI to handle API requests and integrated it with a Next.js frontend, ensuring smooth data flow and user interaction. I also applied web scraping techniques to collect real estate data, preprocessed the dataset, and trained a Gradient Boosting model for accurate rental price prediction.
 
 **Game Developer-Internship (_April 2023 - June 2023_)**
 - Optimizing the reward system for a serious educational game (GLUPS M123, a multiplication table game) for an enhanced approach to a rewarding learning experience.
